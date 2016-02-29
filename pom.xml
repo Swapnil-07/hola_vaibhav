@@ -3,8 +3,8 @@
   
   <groupId>com.hola</groupId>
   <artifactId>hola_vaibhav</artifactId>
+  <version>1.0.0-SNAPSHOT</version>  
   <packaging>jar</packaging>
-  <version>1.0.2</version>
   
   <name>hola_vaibhav</name>
   <url>http://maven.apache.org</url>
